@@ -1,0 +1,22 @@
+{
+  "name": "mlyamin/bitrix-core",
+  "description": "phpDoc for bitrix framework",
+  "license": "MIT",
+  "keywords": [
+    "bitrix",
+    "api",
+    "phpDoc",
+    "autocomplete",
+    "ide-helper"
+  ],
+  "support": {
+    "issues": "https://github.com/mlyamin/bitrix-core/issues",
+    "source": "https://github.com/mlyamin/bitrix-core"
+  },
+  "authors": [
+    {
+      "name": "Mihail",
+      "email": "lyamin2712@rambler.ru"
+    }
+  ]
+}
