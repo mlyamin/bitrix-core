@@ -347,7 +347,7 @@ define('BX_URLREWRITE', true);
 /**
  * POST_FORM_ACTION_URI
  */
-define('POST_FORM_ACTION_URI', htmlspecialcharsbx("/bitrix/urlrewrite.php?SEF_APPLICATION_CUR_PAGE_URL=".urlencode($uriPath)));
+define('POST_FORM_ACTION_URI', '');
 
 /**
  * BX_CHECK_SHORT_URI
@@ -488,6 +488,3 @@ define('AM_PM_UPPER', 1);
  * AM_PM_LOWER
  */
 define('AM_PM_LOWER', 2);
-
-
-?>
